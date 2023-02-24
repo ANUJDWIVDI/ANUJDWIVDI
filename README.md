@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi there, I'm Anuj Dwivedi</h1>
 <p align="center">
-  <img src="![anuj_dwivedi](https://user-images.githubusercontent.com/61553735/221250298-8ece8f19-5dbe-45e2-9e4c-fb0b0f299ce4.png)" width="100" height="100" alt="QR Code">
+  <img src="anuj_dwivedi.png" width="100" height="100" alt="QR Code">
 </p>
 <h1 align="center">Your Heading</h1>
 <p align="center">Scan the QR code above to know more</p>
