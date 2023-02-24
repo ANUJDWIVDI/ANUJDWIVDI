@@ -1,6 +1,4 @@
-| <h1 align="left">👋 Hi there, I'm Anuj Dwivedi</h1> | <p align="center"><img src="anuj_linktree_1.jpg" width="100" height="100" alt="QR Code"></p><p align="center">Scan the QR code above to know more</p> |
-| --- | --- |
-
+<h1 align="left">👋 Hi there, I'm Anuj Dwivedi</h1> 
 
 <p align="left">
   <a href="https://www.linktree.com/anuj_dwivedi" target="_blank">
@@ -68,4 +66,5 @@
 - Secondary School (Class 1-10) in ICSE with a Centum in Computer Science  
   St. Francis De Sales ICSE  
   Year of graduation: 2019
-
+<p align = "left">
+<p align="center"><img src="anuj_linktree_1.jpg" width="100" height="100" alt="QR Code"></p><p align="center">Scan the QR code above to know more</p> </p>
