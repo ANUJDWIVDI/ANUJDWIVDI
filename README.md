@@ -1,11 +1,8 @@
-<h1 align="left">👋 Hi there, I'm Anuj Dwivedi</h1>
-<p align="center">
-  <img src="anuj_dwivedi.png" width="100" height="100" alt="QR Code">
-</p>
-<h1 align="center">Your Heading</h1>
-<p align="center">Scan the QR code above to know more</p>
+| <h1 align="left">👋 Hi there, I'm Anuj Dwivedi</h1> | <p align="center"><img src="anuj_linktree_1.jpg" width="100" height="100" alt="QR Code"></p><p align="center">Scan the QR code above to know more</p> |
+| --- | --- |
 
-<p align="center">
+
+<p align="left">
   <a href="https://www.linktree.com/anuj_dwivedi" target="_blank">
     <img src="https://img.shields.io/badge/-Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white&link=https://www.linktree.com/yourusername" alt="Linktree">
   </a>
