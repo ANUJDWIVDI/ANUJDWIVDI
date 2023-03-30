@@ -26,8 +26,8 @@
 
 ## 🚀 Projects
 
-- Java-Ping-Master using TomCat and JDK implemented <a href="https://www.linkedin.com/posts/anuj-dwivedi-1352831b1_github-anujdwivdijava-ping-master-activity-7046865911361798144-5DMQ?utm_source=share&utm_medium=member_desktop" target="_blank></code></a>
-- Wifi-Captive-Tunnel-with-Flask-Architecture implemented <a href="https://www.linkedin.com/feed/update/urn:li:activity:7046520877366067200/" target="_blank></code></a>
+- Java-Ping-Master using TomCat and JDK implemented <a href="https://www.linkedin.com/posts/anuj-dwivedi-1352831b1_github-anujdwivdijava-ping-master-activity-7046865911361798144-5DMQ?utm_source=share&utm_medium=member_desktop" target="_blank><code></a>
+- Wifi-Captive-Tunnel-with-Flask-Architecture implemented <a href="https://www.linkedin.com/feed/update/urn:li:activity:7046520877366067200/" target="_blank><code></a>
 - Built an AI-powered robot car 🚗🤖🧠
 - Upgraded the robot car with turtle bot 🐢🚗🤖🧠
 - Designed a <a href="https://damyl90.carrd.co/" target="_blank">working model of a dam </a>for mechanical projects 🏗️💦🤖
