@@ -26,6 +26,12 @@
 
 ## 🚀 Projects
 
+# Working Currently 💣
+- Blockchain Cryptocurrency , mining through sudoku games<a href="" target="_blank"> : code</a>
+- Wifi - Fingerprinting architecture<a href="" target="_blank"> : code</a>
+- Kalki AI - Company SaaS<a href="" target="_blank"> : code</a>
+
+# Completed 💣
 - Fast API - Weather prediction Global<a href="https://github.com/ANUJDWIVDI/fast-api-python-weather-forecast" target="_blank"> : code</a>
 - Data Visuallization Webapp<a href="https://www.linkedin.com/posts/anuj-dwivedi-1352831b1_github-anujdwivdidata-visualization-webapp-flask-activity-7049617979923169280-985O?utm_source=share&utm_medium=member_desktop" target="_blank"> : code</a>
 - Cognify AI Tutor<a href="https://www.linkedin.com/posts/anuj-dwivedi-1352831b1_github-anujdwivditutor-ai-flask-webapp-activity-7048689321293352962-eo6p?utm_source=share&utm_medium=member_desktop" target="_blank"> : code</a>
