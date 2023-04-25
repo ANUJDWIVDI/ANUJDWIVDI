@@ -32,6 +32,7 @@
 - Kalki AI - Company SaaS<a href="" target="_blank"> : code</a>
 
 # Completed 💣
+- Smart Forms to Pdf Webapp architecture <a href="https://github.com/ANUJDWIVDI/forms-to-pdf-webapp-arch" target="_blank"> : code</a>
 - Spreadsheet-Marketing-Automation <a href="https://github.com/ANUJDWIVDI/Spreadsheet-Marketing-Automation" target="_blank"> : code</a>
 - yolo-image-recog-webapp <a href="https://github.com/ANUJDWIVDI/yolo-image-recog-webapp" target="_blank"> : code</a>
 - Fast API - Weather prediction Global<a href="https://github.com/ANUJDWIVDI/fast-api-python-weather-forecast" target="_blank"> : code</a>
