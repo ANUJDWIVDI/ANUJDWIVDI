@@ -28,10 +28,13 @@
 
 # Working Currently 💣
 - Blockchain Cryptocurrency , mining through sudoku games<a href="" target="_blank"> : code</a>
+- Corpo-DeaT-FutureTech <a href="" target="_blank"> : code</a>
 - Wifi - Fingerprinting architecture<a href="" target="_blank"> : code</a>
 - Kalki AI - Company SaaS<a href="" target="_blank"> : code</a>
 
 # Completed 💣
+- ImageEye-Metadata-Extractor <a href="https://github.com/ANUJDWIVDI/image-metadata-extract-webapp" target="_blank"> : code</a>
+- Market-Segmentation-Webapp <a href="https://github.com/ANUJDWIVDI/market-segmentation-webapp" target="_blank"> : code</a>
 - LinkedIn-query-pro <a href="https://github.com/ANUJDWIVDI/linkedin-query-pro" target="_blank"> : code</a>
 - Git-Script-Automation <a href="https://github.com/ANUJDWIVDI/git-script-automation" target="_blank"> : code</a>
 - Smart Forms to Pdf Webapp architecture <a href="https://github.com/ANUJDWIVDI/forms-to-pdf-webapp-arch" target="_blank"> : code</a>
