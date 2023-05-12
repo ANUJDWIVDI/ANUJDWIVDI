@@ -34,6 +34,7 @@
 
 # Completed 💣
 - Enigma Quest Mega Software 🚀 <a href="https://github.com/ANUJDWIVDI/enigma-code-webapp" target="_blank"> : code</a>
+- Enigma-Server-Face <a href="https://github.com/ANUJDWIVDI/enigma-server-face" target="_blank"> : code</a>
 - ImageEye-Metadata-Extractor <a href="https://github.com/ANUJDWIVDI/image-metadata-extract-webapp" target="_blank"> : code</a>
 - Market-Segmentation-Webapp <a href="https://github.com/ANUJDWIVDI/market-segmentation-webapp" target="_blank"> : code</a>
 - LinkedIn-query-pro <a href="https://github.com/ANUJDWIVDI/linkedin-query-pro" target="_blank"> : code</a>
