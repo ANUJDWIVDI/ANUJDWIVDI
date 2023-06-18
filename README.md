@@ -33,6 +33,7 @@
 - Kalki AI - Company SaaS<a href="" target="_blank"> : code</a>
 
 # Completed 💣
+- Data-Viz-Server-Face <a href="https://github.com/ANUJDWIVDI/data-visualization-server-face" target="_blank"> : code</a>
 - Data Visuallization WebApp 📊 <a href="https://github.com/ANUJDWIVDI/data-visualization-webapp-flask" target="_blank"> : code</a>
 - Linear-Regr-Webapp 💹 <a href="https://github.com/ANUJDWIVDI/linear-regr-webapp" target="_blank"> : code</a>
 - Airports-route-planner <a href="https://github.com/ANUJDWIVDI/flight-path-calculator" target="_blank"> : code</a>
