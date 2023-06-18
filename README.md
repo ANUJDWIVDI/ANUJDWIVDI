@@ -18,6 +18,8 @@
   </a>
 </p>
 
+## Check out my Portfolio Site 🌐:
+  Link to Site : <a href="https://projectai.me" target="_blank">projectai.me</a>
 ## 💼 Companies
 
 - Founder and CEO at <a href="https://linktr.ee/turingthoughts" target="_blank">TuringThoughts</a> 🤖📈
