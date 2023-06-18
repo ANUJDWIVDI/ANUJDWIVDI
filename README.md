@@ -33,6 +33,11 @@
 - Kalki AI - Company SaaS<a href="" target="_blank"> : code</a>
 
 # Completed 💣
+- Data Visuallization WebApp 📊 <a href="https://github.com/ANUJDWIVDI/data-visualization-webapp-flask" target="_blank"> : code</a>
+- Linear-Regr-Webapp 💹 <a href="https://github.com/ANUJDWIVDI/linear-regr-webapp" target="_blank"> : code</a>
+- Airports-route-planner <a href="https://github.com/ANUJDWIVDI/flight-path-calculator" target="_blank"> : code</a>
+- Segm-Webapp-Server-Face <a href="https://github.com/ANUJDWIVDI/market-segm-server-face" target="_blank"> : code</a>
+- Market-Segm-Webapp-Sp_v0.2🫂 <a href="https://github.com/ANUJDWIVDI/market-segmentation-webapp" target="_blank"> : code</a>
 - Enigma Quest Mega Software 🚀 <a href="https://github.com/ANUJDWIVDI/enigma-code-webapp" target="_blank"> : code</a>
 - Enigma-Server-Face <a href="https://github.com/ANUJDWIVDI/enigma-server-face" target="_blank"> : code</a>
 - ImageEye-Metadata-Extractor <a href="https://github.com/ANUJDWIVDI/image-metadata-extract-webapp" target="_blank"> : code</a>
