@@ -18,6 +18,14 @@
 - Kalki AI - Company SaaS<a href="" target="_blank"> : code</a>
 
 # Completed 💣
+
+- OptiFlow-Ai in Workforce : [code](https://github.com/ANUJDWIVDI/SNH08_opti_flow_)
+- sakhi_samridhi : [code](https://github.com/ANUJDWIVDI/sakhi_samridhi)
+- skill_swap_2.0 peer to peer app : [code](https://github.com/ANUJDWIVDI/skill_swap_2.0)
+- for_hallothon_ss : [code](https://github.com/ANUJDWIVDI/for_hallothon_ss)
+- smart-grocery-smart store : [code](https://github.com/ANUJDWIVDI/smart-store)
+- NASA-SpaceAppChallange: [code](https://github.com/DarshanAnand007/NASA-SpaceAppChallange)
+- synapse-fest-webdesign : [code](https://github.com/ANUJDWIVDI/synapse-fest)
 - Data-Viz-Server-Face <a href="https://data-visualization-server-face.vercel.app/" target="_blank"> : code</a>
 - Data Visuallization WebApp 📊 <a href="https://github.com/ANUJDWIVDI/data-visualization-webapp-flask" target="_blank"> : code</a>
 - Linear-Regr-Webapp 💹 <a href="https://github.com/ANUJDWIVDI/linear-regr-webapp" target="_blank"> : code</a>
